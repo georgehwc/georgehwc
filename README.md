@@ -39,6 +39,11 @@ https://project-3-d-developer-portfolio-georgehwc.vercel.app/
 </br>
  
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/georgehwc/count.svg?"  />
+</div>
+
 </div>
 
 <!--
