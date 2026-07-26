@@ -9,7 +9,7 @@
  <div>
   <a href="https://github.com/georgehwc">
    <img align="center" height="170" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=georgehwc&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.zohan.tech/api?username=georgehwc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.zohan.tech/api?username=georgehwc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues"/>
 </div>
  
  ## Skills
@@ -24,6 +24,15 @@
   <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
   
+</br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/georgehwc/georgehwc/output/github-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/georgehwc/georgehwc/output/github-snake.svg" />
+  </picture>
+</div>
+
 </br>
 
 ## Contact 
