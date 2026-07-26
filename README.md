@@ -8,8 +8,8 @@
 
  <div>
   <a href="https://github.com/georgehwc">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgehwc&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgehwc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=georgehwc&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.zohan.tech/api?username=georgehwc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
@@ -41,7 +41,7 @@ https://project-3-d-developer-portfolio-georgehwc.vercel.app/
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/georgehwc/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=georgehwc&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
 </div>
